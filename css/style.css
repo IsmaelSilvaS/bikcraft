@@ -1,0 +1,7 @@
+@import "./global/globa.css";
+@import "./utilidades/tipografica.css";
+@import "./utilidades/cores.css";
+@import "./global/header.css";
+@import "./home/home.css";
+@import "./utilidades/componentes.css";
+@import "./bicicletas/bicicletas-lista.css";
